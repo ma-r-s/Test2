@@ -12,7 +12,7 @@
 </svelte:head>
 
 <div class="todos">
-  <h1>Prueba despliegue</h1>
+  <h1>Prueba despliegue de plataforma web</h1>
 
   <form
     class="new"
